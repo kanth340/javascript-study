@@ -11,3 +11,7 @@ my questions:
 why is the event loop for the call stack to be empty and why not push it to the call stack?
 
 interview questions:
+
+
+challenges:
+https://sadanandpai.github.io/frontend-mini-challenges/
